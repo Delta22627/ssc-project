@@ -4,4 +4,4 @@
 https://github.com/Delta22627/ssc-project-frontend
 
 ## SSC Backend
-https://github.com/Delta22627/ssc-project-backend
+https://github.com/Salagoza/SSC-project-backend
